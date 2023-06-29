@@ -7,8 +7,9 @@
 
   <!-- hero -->
   <div align="center">
-    <img src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=1000" width="350px"/> 
+    <img src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE" width="300px"/> 
   </div>
+  <br/>
   <!-- <h2>Tech Stack: </h2> -->
   <div align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,6 +17,7 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    <br/>
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
@@ -23,7 +25,6 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   </div>
   <br/>
-
   <h2>💫 About Me : </h2>
   <div>
     <ul>
@@ -43,17 +44,18 @@
           <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /></a>
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>
         </div>
-        <br/>
     </ul>
   </div>
 
-  <br/>
   <h2>📊 GitHub Stats:</h2>
   <div> 
-  <img src="https://streak-stats.demolab.com?user=d1m0n4ik8&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
+    <img src="https://streak-stats.demolab.com?user=d1m0n4ik8&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=d1m0n4ik8&show_icons=true&theme=transparent&title_color=00FF00&text_color=00FF00&hide_border=true"/> 
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1m0n4ik8&theme=transparent&title_color=00FF00&text_color=00FF00&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/> 
-  <img src="https://i.gifer.com/23yV.gif" width="130px"/>
+  
+  <br/>
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d1m0n4ik8&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
