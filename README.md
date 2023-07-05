@@ -51,9 +51,9 @@
   <div> 
     <img src="https://streak-stats.demolab.com?user=d1m0n4ik8&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=d1m0n4ik8&show_icons=true&theme=transparent&title_color=00FF00&text_color=00FF00&hide_border=true"/> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=d1m0n4ik8&show_icons=true&theme=transparent&title_color=00FF00&text_color=00FF00&hide_border=true"/> 
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1m0n4ik8&theme=transparent&title_color=00FF00&text_color=00FF00&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d1m0n4ik8&theme=transparent&title_color=00FF00&text_color=00FF00&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/> 
   
   <br/>
   
